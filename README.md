@@ -29,6 +29,15 @@ A production-ready full-stack application template powered by Cloudflare Workers
 
 ## 🚀 Quick Start
 
+### Rodar a calculadora localmente
+
+```bash
+bun install
+bun run dev
+```
+
+A aplicação de calculadora ficará disponível em `http://localhost:3000`.
+
 1. **Prerequisites**:
    - [Bun](https://bun.sh/) installed
    - [Cloudflare CLI (Wrangler)](https://developers.cloudflare.com/workers/wrangler/install-and-update/) installed
